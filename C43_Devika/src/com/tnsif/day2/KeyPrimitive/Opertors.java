@@ -20,7 +20,7 @@ public class Opertors {
 			System.out.println("Condition is FALSE");
 		}
 	}
-	System.out.println("Devika");
+	
 }
 
 
