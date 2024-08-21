@@ -2,7 +2,7 @@ package com.tnsif.day4.Modifiers;
 
 public class Executors {
 
-}public class Executor {
+
 	public static void main(String[]args) {
 		Base b1=new Base();
 		b1.methodDefault();
