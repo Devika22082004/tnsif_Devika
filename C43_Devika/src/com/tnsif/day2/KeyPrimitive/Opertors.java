@@ -2,11 +2,25 @@ package com.tnsif.day2.KeyPrimitive;
 
 public class Opertors {
 	public static void main(String[]args){
-	int a=3;
-	int b=4;
-	int c=a*b;
-	System.out.println(c);
+		int x = 8, y = 7;
+		int a = 10;
+		int b = 11;
+
+		if (x >= y) {
+			System.out.println("true");
+		} else {
+			System.out.println("false");
+		}
+
+		if (!(a < b) || (a == b)) {
+			System.out.println("Condition is TRUE");
+		} else
+
+		{
+			System.out.println("Condition is FALSE");
+		}
+	}
 }
 
-}
+
 
