@@ -1,4 +1,4 @@
-package com.tnsif.dy3.Oops;
+package com.tnsif.day3.Oops;
 
 public class Encapsulation {
 
